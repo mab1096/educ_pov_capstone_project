@@ -1,0 +1,87 @@
+hdi_rank,Country,educ_index_2000,educ_index_2013,Country Code 2000,pov_2000,pov_2013,GDP_Country_Name,Country_Code2,gdp_2000,gdp_2013,Country_Name2,Region_2013,povhc_pct_y2,numpoor_y2,pop_y2,survey_coverage_y2,Region_2000,povhc_pct_y1,numpoor_y1,pop_y1,survey_coverage_y1,name,Country Name,Country Code,elec2000,elec2013
+2,Australia,89.54,92.65,AUS,,,Australia,AUS,415000,1580000,Australia,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Australia,Australia,AUS,100,100
+7,New Zealand,88.46,91.68,NZL,,,New Zealand,NZL,52623,191000,New Zealand,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,New Zealand,New Zealand,NZL,100,100
+9,Singapore,60.61,76.78,SGP,,,Singapore,SGP,96074,308000,Singapore,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Singapore,Singapore,SGP,100,100
+17,Japan,76.7,80.8,JPN,,1.2,Japan,JPN,4890000,5160000,Japan,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Japan,Japan,JPN,100,100
+19,Israel,81.98,85.43,ISR,,,Israel,ISR,132000,293000,Israel,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Israel,Israel,ISR,100,100
+30,Brunei Darussalam,64.65,69.21,BRN,,,Brunei Darussalam,BRN,6001,18094,Brunei Darussalam,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Brunei Darussalam,Brunei Darussalam,BRN,100,100
+31,Qatar,61.24,68.57,QAT,,,Qatar,QAT,17760,199000,Qatar,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Qatar,Qatar,QAT,100,100
+34,Saudi Arabia,56.53,72.32,SAU,,,Saudi Arabia,SAU,190000,747000,Saudi Arabia,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Saudi Arabia,Saudi Arabia,SAU,100,100
+39,Malta,61.57,73.25,MLT,,0.2,Malta,MLT,4070,10552,Malta,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Malta,Malta,MLT,100,100
+40,United Arab Emirates,60.41,67.32,ARE,,0,United Arab Emirates,ARE,104000,390000,United Arab Emirates,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,United Arab Emirates,United Arab Emirates,ARE,100,100
+44,Bahrain,65.61,71.4,BHR,,,Bahrain,BHR,9063,32539,Bahrain,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Bahrain,Bahrain,BHR,100,100
+46,Kuwait,63.67,64.58,KWT,,,Kuwait,KWT,37713,174000,Kuwait,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Kuwait,Kuwait,KWT,100,100
+55,Libya,62.48,69.79,LBY,,,Libya,LBY,38270,65503,Libya,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Libya,Libya,LBY,,76.49629974
+56,Oman,0,60.33,OMN,,,Oman,OMN,19507,78556,Oman,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Oman,Oman,OMN,100,100
+60,Palau,76,78.68,PLW,,,Palau,PLW,146,221,Palau,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Palau,Palau,PLW,,98.91943359
+62,Malaysia,60.24,67.05,MYS,,4,Malaysia,MYS,93790,323000,Malaysia,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Malaysia,Malaysia,MYS,,99.92743683
+63,Mauritius,57.41,71.81,MUS,,,Mauritius,MUS,4663,12130,Mauritius,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Mauritius,Mauritius,MUS,99,97.34088898
+65,Lebanon,0,63.06,LBN,,,Lebanon,LBN,17260,46909,Lebanon,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Lebanon,Lebanon,LBN,,100
+71,Seychelles,66.65,63.59,SYC,,7,Seychelles,SYC,615,1328,Seychelles,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Seychelles,Seychelles,SYC,94.03678894,98
+73,Sri Lanka,67.89,73.78,LKA,,,Sri Lanka,LKA,16331,74318,Sri Lanka,South Asia,84.69,1444.64,1705.77,98.11,South Asia,,,,20.82,Sri Lanka,Sri Lanka,LKA,,90.2
+77,Jordan,67.08,69.97,JOR,,,Jordan,JOR,8460,34454,Jordan,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Jordan,Jordan,JOR,98.68096161,99.3657608
+88,Fiji,67.08,76.65,FJI,,35.8,Fiji,FJI,1684,4190,Fiji,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Fiji,Fiji,FJI,75.76808929,91.75
+89,Thailand,51.58,60.8,THA,48.6,11.3,Thailand,THA,126000,420000,Thailand,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Thailand,Thailand,THA,82.1,99.4548645
+90,Tunisia,52.52,62.15,TUN,50.6,,Tunisia,TUN,21473,46251,Tunisia,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Tunisia,Tunisia,TUN,94.8,99.7
+91,China,47.76,60.97,CHN,,36.4,China,CHN,1210000,9570000,China,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,China,China,CHN,96.90710449,100
+93,Algeria,49.35,64.26,DZA,,,Algeria,DZA,54790,210000,Algeria,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Algeria,Algeria,DZA,,99.53858185
+100,Tonga,66.37,72.03,TON,27.8,,Tonga,TON,205,451,Tonga,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Tonga,Tonga,TON,85.45069885,94.44410706
+103,Maldives,48.44,54.75,MDV,,,Maldives,MDV,624,3295,Maldives,South Asia,84.69,1444.64,1705.77,98.11,South Asia,,,,20.82,Maldives,Maldives,MDV,83.8,99.5677948
+103,Mongolia,53.17,69.37,MNG,,,Mongolia,MNG,1137,12582,Mongolia,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Mongolia,Mongolia,MNG,67.3,81.2
+106,Samoa,67.72,70.15,WSM,,33.9,Samoa,WSM,269,770,Samoa,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Samoa,Samoa,WSM,87.86341858,98.20394897
+108,Indonesia,52.13,60.31,IDN,95.1,68.7,Indonesia,IDN,165000,913000,Indonesia,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Indonesia,Indonesia,IDN,86.3,96.46425831
+109,Botswana,57.61,61.9,BWA,,,Botswana,BWA,5788,14902,Botswana,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Botswana,Botswana,BWA,27.27746582,53.69979477
+112,Gabon,54.52,58.93,GAB,,,Gabon,GAB,5068,17596,Gabon,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Gabon,Gabon,GAB,73.6,86.4
+117,Philippines,58.24,61,PHL,64,,Philippines,PHL,83670,284000,Philippines,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Philippines,Philippines,PHL,74.77100372,87.5
+118,Syrian Arab Republic,45.08,55.32,SYR,,,Syrian Arab Republic,SYR,19326,,Syrian Arab Republic,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,,Syrian Arab Republic,SYR,,90.23526764
+118,South Africa,65.52,69.54,ZAF,70.2,,South Africa,ZAF,136000,367000,South Africa,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,South Africa,South Africa,ZAF,71.75089264,85.4
+120,Iraq,40.07,46.66,IRQ,,,Iraq,IRQ,,235000,Iraq,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Iraq,Iraq,IRQ,,98.75154114
+121,Vietnam,43.45,51.35,VNM,,,Vietnam,VNM,31173,171000,Vietnam,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Vietnam,Vietnam,VNM,87.18787384,99.00099182
+127,Namibia,50.75,52.02,NAM,,,Namibia,NAM,3834,12011,Namibia,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Namibia,Namibia,NAM,36.5,47.4
+128,Timor-Leste,36.15,47.24,TLS,,,Timor-Leste,TLS,367,1396,Timor-Leste,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Timor-Leste,Timor-Leste,TLS,,59.0233345
+129,Morocco,34.55,46.79,MAR,58.9,30.2,Morocco,MAR,38857,107000,Morocco,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Morocco,Morocco,MAR,69.66585541,97.2
+131,Vanuatu,0,59.55,VUT,,,Vanuatu,VUT,272,802,Vanuatu,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Vanuatu,Vanuatu,VUT,22.22964859,31.7
+133,Kiribati,0,60.21,KIR,,,Kiribati,KIR,67,185,Kiribati,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Kiribati,Kiribati,KIR,,82.19458771
+135,India,35.54,47.27,IND,,,India,IND,468000,1860000,India,South Asia,84.69,1444.64,1705.77,98.11,South Asia,,,,20.82,India,India,IND,59.12545776,80.79154205
+136,Bhutan,0,42.12,BTN,,,Bhutan,BTN,424,1756,Bhutan,South Asia,84.69,1444.64,1705.77,98.11,South Asia,,,,20.82,Bhutan,Bhutan,BTN,31.15,87.3388443
+136,Cambodia,40.03,49.52,KHM,,,Cambodia,KHM,3678,15228,Cambodia,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Cambodia,Cambodia,KHM,16.6,54.79524612
+138,Ghana,43.25,55.27,GHA,,,Ghana,GHA,4983,62405,Ghana,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Ghana,Ghana,GHA,43.7,70.7
+141,Zambia,48.75,59.13,ZMB,,,Zambia,ZMB,3601,28046,Zambia,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Zambia,Zambia,ZMB,16.7,28.01492882
+142,Bangladesh,33.04,44.69,BGD,91.5,,Bangladesh,BGD,53370,150000,Bangladesh,South Asia,84.69,1444.64,1705.77,98.11,South Asia,,,,20.82,Bangladesh,Bangladesh,BGD,32,61.5
+144,Equatorial Guinea,41.49,41.49,GNQ,,,Equatorial Guinea,GNQ,1046,21949,Equatorial Guinea,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Equatorial Guinea,Equatorial Guinea,GNQ,,65.84353638
+145,Nepal,33.67,45.23,NPL,,,Nepal,NPL,5494,19271,Nepal,South Asia,84.69,1444.64,1705.77,98.11,South Asia,,,,20.82,Nepal,Nepal,NPL,27.70176888,78.24636078
+146,Pakistan,26.12,37.17,PAK,,79.6,Pakistan,PAK,82018,231000,Pakistan,South Asia,84.69,1444.64,1705.77,98.11,South Asia,,,,20.82,Pakistan,Pakistan,PAK,70.36933136,70.79993439
+147,Kenya,43.12,51.46,KEN,,,Kenya,KEN,12705,55097,Kenya,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Kenya,Kenya,KEN,15.3646946,43.04860306
+149,Angola,29.87,47.42,AGO,80.5,,Angola,AGO,9130,137000,Angola,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Angola,Angola,AGO,,36.87238312
+150,Myanmar,30.96,37.06,MMR,,,Myanmar,MMR,8905,60270,Myanmar,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Myanmar,Myanmar,MMR,,56.22186661
+151,Rwanda,27.8,47.82,RWA,95.9,92.6,Rwanda,RWA,2069,7820,Rwanda,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Rwanda,Rwanda,RWA,6.2,15.2
+152,Cameroon,35.65,48.58,CMR,,,Cameroon,CMR,10084,32357,Cameroon,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Cameroon,Cameroon,CMR,41,56.16632462
+152,Nigeria,0,42.49,NGA,,,Nigeria,NGA,69449,509000,Nigeria,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Nigeria,Nigeria,NGA,42.85608673,55.6
+155,Madagascar,39.82,45.84,MDG,,,Madagascar,MDG,4629,12424,Madagascar,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Madagascar,Madagascar,MDG,13.58636379,12.9
+156,Zimbabwe,47.13,49.99,ZWE,,,Zimbabwe,ZWE,6690,19091,Zimbabwe,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Zimbabwe,Zimbabwe,ZWE,33.88433075,38.33882523
+157,Papua New Guinea,28.48,37.63,PNG,,,Papua New Guinea,PNG,3521,21261,Papua New Guinea,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Papua New Guinea,Papua New Guinea,PNG,8.658045769,35.77438354
+157,Solomon Islands,33.33,40.55,SLB,,,Solomon Islands,SLB,429,1285,Solomon Islands,East Asia and Pacific,41.96,842.94,2009,97.61,East Asia and Pacific,84.68,1538.25,1816.54,95.12,Solomon Islands,Solomon Islands,SLB,4.670693398,44.7
+159,Comoros,0,45.04,COM,,,Comoros,COM,350,1116,Comoros,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Comoros,Comoros,COM,,69.50240326
+161,Mauritania,28.01,35.23,MRT,76,,Mauritania,MRT,1780,7223,Mauritania,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Mauritania,Mauritania,MRT,,37.49877167
+162,Lesotho,44.95,50.42,LSO,,,Lesotho,LSO,887,2421,Lesotho,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Lesotho,Lesotho,LSO,4.258760108,26.61523056
+163,Senegal,26.63,36.78,SEN,,,Senegal,SEN,5924,18966,Senegal,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Senegal,Senegal,SEN,37.74,57
+164,Uganda,42.59,47.86,UGA,,,Uganda,UGA,6193,28792,Uganda,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Uganda,Uganda,UGA,7.738433361,13.9
+165,Benin,26.87,41.36,BEN,,,Benin,BEN,3511,12518,Benin,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Benin,Benin,BEN,21.39941978,35.62862778
+166,Sudan,20.6,30.6,SDN,,,Sudan,SDN,12257,57730,Sudan,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Sudan,Sudan,SDN,23,43.29947281
+166,Togo,40.69,51.44,TGO,,,Togo,TGO,1488,4322,Togo,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Togo,Togo,TGO,16.95623488,40.98518372
+169,Afghanistan,22.55,36.53,AFG,,,Afghanistan,AFG,,20561,Afghanistan,South Asia,84.69,1444.64,1705.77,98.11,South Asia,,,,20.82,Afghanistan,Afghanistan,AFG,,68.93326569
+170,Djibouti,0,30.59,DJI,,74.5,Djibouti,DJI,551,2043,Djibouti,Middle East and North Africa,40.58,144.1,355.06,91.64,Middle East and North Africa,53.28,150.01,281.55,69.69,Djibouti,Djibouti,DJI,56.39942932,56.12973404
+173,Ethiopia,16.86,31.65,ETH,,,Ethiopia,ETH,8242,47648,Ethiopia,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Ethiopia,Ethiopia,ETH,12.7,36.04441452
+174,Malawi,38.76,43.97,MWI,,,Malawi,MWI,1744,5519,Malawi,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Malawi,Malawi,MWI,4.8,9
+175,Liberia,34.4,36.72,LBR,,,Liberia,LBR,874,3067,Liberia,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Liberia,Liberia,LBR,,9.8
+176,Mali,17.66,30.52,MLI,,,Mali,MLI,2954,13243,Mali,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Mali,Mali,MLI,9.379322052,33.68215942
+177,Guinea-Bissau,0,32.53,GNB,,,Guinea-Bissau,GNB,370,1046,Guinea-Bissau,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,,Guinea-Bissau,GNB,,16.13945961
+178,Mozambique,22.25,37.21,MOZ,,,Mozambique,MOZ,5656,16974,Mozambique,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Mozambique,Mozambique,MOZ,5.981588364,22.78194618
+179,Guinea,0,29.44,GIN,,,Guinea,GIN,2995,8377,Guinea,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Guinea,Guinea,GIN,15.53915501,31.17556
+180,Burundi,18.66,37.01,BDI,,96.9,Burundi,BDI,870,2452,Burundi,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Burundi,Burundi,BDI,2.980748415,6.9
+181,Burkina Faso,0,25,BFA,,,Burkina Faso,BFA,2957,13444,Burkina Faso,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Burkina Faso,Burkina Faso,BFA,9.144398689,15.59590626
+182,Eritrea,0,22.75,ERI,,,Eritrea,ERI,706,,Eritrea,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Eritrea,Eritrea,ERI,29.22662163,43.23731995
+183,Sierra Leone,27.37,30.45,SLE,,,Sierra Leone,SLE,636,4920,Sierra Leone,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Sierra Leone,Sierra Leone,SLE,,13.5
+184,Chad,18.64,25.59,TCD,,,Chad,TCD,1385,12954,Chad,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Chad,Chad,TCD,2.704967737,8.023126602
+185,Central African Republic,24.83,31.79,CAF,,,Central African Republic,CAF,915,1692,Central African Republic,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Central African Republic,Central African Republic,CAF,6,18.55493927
+187,Niger,11.76,19.79,NER,,,Niger,NER,2236,10225,Niger,Sub-Saharan Africa,86.81,818.69,943.04,73.34,Sub-Saharan Africa,91.03,605.63,665.33,60.66,Niger,Niger,NER,6.481481481,15.14236927
